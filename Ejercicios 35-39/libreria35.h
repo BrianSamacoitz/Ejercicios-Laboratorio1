@@ -1,0 +1,1 @@
+int control(int);
